@@ -1,8 +1,7 @@
 @extends('Dashboard.Layouts.app')
 
-@section('title', 'Mi Página')
+@section('title', 'Panel de Control')
 
 @section('content')
-
 
 @endsection
